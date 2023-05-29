@@ -9,6 +9,9 @@ export class UserDetailComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
   }
+
+  
 
 }
